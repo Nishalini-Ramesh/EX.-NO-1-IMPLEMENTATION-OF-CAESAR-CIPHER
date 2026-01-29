@@ -69,7 +69,9 @@ int main()
 ```
 ## OUTPUT:
 
-<img width="1526" height="793" alt="image" src="https://github.com/user-attachments/assets/ade28cd8-7b00-4ceb-9094-022b329e17c1" />
+
+<img width="518" height="318" alt="Screenshot 2026-01-29 143501" src="https://github.com/user-attachments/assets/bb29ea0f-e87b-4723-b09e-2423837c3079" />
+
 
 
 
